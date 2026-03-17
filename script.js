@@ -26,8 +26,7 @@ let age = 32;
 let favoriteColor = "Pink";
 
 // print a sentence using the variables
-console.log("My name is " + name + ", I am " + age + " years old, and my favorite color is " + favoriteColor + ".");
-
+console.log(`My name is ${name}, I am ${age} years old, and my favorite color is ${favoriteColor}.`);
 
 // -----------------------------
 // Exercise 3
